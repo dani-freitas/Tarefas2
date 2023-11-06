@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+    <string name="title_sobre">Sobre</string>
+    <string name="title_tarefa">Tarefa</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="place_holder_example">Exemple</string>
+    <string name="Título">App Tarefa</string>
+    <string name="texto">Seja Bem Vindo!!!\ Você já se viu perdido em meio\na uma lista interminável de \ntarefas a serem feitas? A vida \nmoderna pode ser agitada e muitas\nvezes nos desafiam a acompanhar \ntodas as nossas responsabilidades.\nMas não se preocupe, estamos aqui\npara ajudar! Apresentamos o nosso\nincrível aplicativo de tarefas, \numa ferramenta que vai revolucionar\na maneira como você gerencia \nsuas atividades diárias.</string>
+    <string name="Agenda">Sua agenda pessoal para atividades diarias</string>
+    <string name="atividades">Atividades Diárias</string>
+    <string name="delete">Delete</string>
+    <string name="Mais">+</string>
+    <string name="enter_todo_title">Digite a Tarefa\n</string>
+    <string name="cadastro_pessoal">Cadastro Pessoal</string>
+    <string name="primeiro_nome">Primeiro Nome</string>
+    <string name="sobreNome">Sobrenome</string>
+    <string name="aniversario">Aniversário</string>
+    <string name="salvar">Salvar</string>
+    <string name="informacoes_pessoais">Informações Pessoais</string>
+
+
+</resources>
